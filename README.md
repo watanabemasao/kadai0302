@@ -17,3 +17,4 @@
 - RequestMappingをGetMappingに置き換えました。
 - フォルダの誤字を修正しました。
 # kadai0302
+# kadai0302
