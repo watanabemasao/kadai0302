@@ -16,7 +16,3 @@
 - RestControllerを使用し、HelloControllerを別クラスに配置しました。
 - RequestMappingをGetMappingに置き換えました。
 - フォルダの誤字を修正しました。
-
-
-# kadai0301
-# kadai0301
