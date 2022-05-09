@@ -2,7 +2,7 @@
 ## 課題内容
 ### WebアプリケーションをAPサーバー上で動作させて、画面上に「Hello World」と表示させてみましょう。
 ## Spring initializr
-- Maven Project
+- ~~Maven~~  Gradle Project
 - Java
 - 2.6.7
 - Java11
@@ -16,3 +16,6 @@
 - RestControllerを使用し、HelloControllerを別クラスに配置しました。
 - RequestMappingをGetMappingに置き換えました。
 - フォルダの誤字を修正しました。
+# 追加
+- README.md内のProjectに誤りがあった為修正しました。
+- HelloController.Java内戻り値の表記の修正しました。
